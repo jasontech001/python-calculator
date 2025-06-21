@@ -1,2 +1,2 @@
 # python-calculator
-My first Python project – simple calculato
+My first Python project – simple calculator
